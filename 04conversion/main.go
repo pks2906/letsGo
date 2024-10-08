@@ -28,4 +28,4 @@ func main()  {
 		fmt.Println("Added 1 to your rating", numRating + 1)
 	}	
 	
-}
+}	
